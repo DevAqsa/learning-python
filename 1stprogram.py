@@ -6,3 +6,6 @@ b = 30
 c = a + b
 print("sum of a and b is", c)
 
+print("My name is aqsa mumtaz","my age is 23" )
+
+
