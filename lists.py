@@ -23,7 +23,7 @@
 
 # methods of list
 
-list = [2, 1, 3, 7 , 90]
+# list = [2, 1, 3, 7 , 90]
 
 # list.append(4) # add any element at the end of the list -- mutating the list
 
